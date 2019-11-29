@@ -42,7 +42,7 @@
 				<Property Name="Destination[1].path" Type="Path">/C/Users/rasmus.pettersson/Documents/LabVIEWBuilds/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{CF1085CE-8793-4DC3-A1DE-4385858CF922}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{2099CEEE-324C-4691-ADF2-D1C0452A1B8C}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Add.vi</Property>
